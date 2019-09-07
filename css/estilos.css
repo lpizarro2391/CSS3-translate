@@ -17,6 +17,6 @@ div {
   width: 200px;
   height: 200px;
   background-color: yellow;
-  transform: translate(80px, 120px);
+  transform: translate(-80px, -120px);
 
 }
